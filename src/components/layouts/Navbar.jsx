@@ -91,7 +91,7 @@ const Navbar = () => {
             Services
           </Link>
           <Link 
-            to="/about" 
+            to="/about-us" 
             className="block py-3 text-gray-800 hover:text-[#DAA520] font-medium border-b border-[#FFE4C4]"
             onClick={closeMenu}
           >
